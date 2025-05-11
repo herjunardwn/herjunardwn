@@ -40,10 +40,16 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 
+---
+
 ### 🌐 Let's Connect
 
 Feel free to reach out or collaborate!
-
-[Email](mailto:herjunahr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iwn-rdwn/)
-
----
+  
+  <a href="https://www.linkedin.com/in/iwn-rdwn/" style="text-decoration: none !important" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.instagram.com/_herjunardwn" style="text-decoration: none !important" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
